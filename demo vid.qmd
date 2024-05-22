@@ -5,6 +5,14 @@ editor: visual
 ---
 
 ```{r}
-#test
+#| echo: true
+#| message: false
+#| error: false
+
+#abc
+#123
+
+library(palmerpenguins)
+
 ```
 
